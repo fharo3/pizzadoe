@@ -1,0 +1,47 @@
+/*=================SECTION TAGS====================*/
+section {
+    position: relative;
+    float: left;
+    width:48%;
+    
+}
+
+#contact-form-wrapper {
+    clear: both;
+    position: relative;
+    top: 10px;
+    float: right;
+    
+}
+
+#form-map-side {
+    float: left;
+    top: 130px;
+    
+    
+}
+
+#map-wrapper {
+    position: relative;
+    overflow: visible;
+    top: px;
+    
+}
+
+#physical-info-side {
+    top: 130px;
+    left: 15px;
+    
+}
+
+button {
+    background-color: pink;
+    color: red;
+    
+}
+
+/*******************FOOTER*************************/
+footer {
+    position: relative;
+    ;
+}

@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Rock+Salt|Source+Sans+Pro');
+
+
+
+
+/*==================UNIVERSALS============================*/
+* {
+    border: 1px dashed;
+}
+
+body {
+    margin: 10px;
+    padding: 10px;
+    background-color: #fffcf4; /*---------going for a creamy white-----------*/
+}
+.red-background {
+    background-color: #e40008
+    
+}
+.white-text {
+    color: #fff;
+    
+}
+.inline-block {
+    display: inline-block;
+    
+}
+
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
+.inline {
+    display: inline;
+    
+}
+
+#yellow-text {
+    color: #efc909;
+}
+
+
+a {
+    text-decoration: none;
+    
+}
+
+
+/*================HEADER===================================*/
+header {
+    position: fixed;
+    height: 300px;
+    width: 100%;
+    margin: 10px;
+
+    
+}
+.welcome {
+    position: relative;
+    height: 50px;
+    width: 200px;
+    float: left;
+    left: 15px;
+    top: 150px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Rock Salt', cursive;
+    font-family: 'Pacifico', cursive;
+   
+    
+}
+#logo {
+    position: relative;
+    height: 150px;
+    float: left;
+    clear: both;
+    left: 50%;
+}
+
+.navigation-bar-header {
+    position: relative;
+    float: right;
+    height: 50px;
+    width: 100px; 
+    top: ;
+    right: 100px ;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Rock Salt', cursive;
+    font-family: 'Pacifico', cursive;
+    
+}
+
+#main-menu-bar {
+    
+    
+    
+}
+/***************BODY SECTION************************/
+body {
+    position: relative;
+    
+    
+}
+
+
+/**************FOOTER SECTION**********************/
+footer {
+    position: absolute;
+    
+}
+
+
